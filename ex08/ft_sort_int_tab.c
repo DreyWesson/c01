@@ -6,7 +6,7 @@
 /*   By: doduwole <doduwole@student.42wolfsburg.    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/07/27 08:27:39 by doduwole          #+#    #+#             */
-/*   Updated: 2022/07/27 11:19:30 by doduwole         ###   ########.fr       */
+/*   Updated: 2022/07/27 22:24:39 by doduwole         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -20,7 +20,7 @@ void	ft_sort_int_tab(int *tab, int size)
 	while (i < size)
 	{
 		j = 0;
-		while (j < size)
+		while (j < size - 1)
 		{
 			if (tab[j] > tab[j + i])
 			{
