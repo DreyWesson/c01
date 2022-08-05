@@ -6,9 +6,11 @@
 /*   By: doduwole <doduwole@student.42wolfsburg.    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/07/26 16:52:29 by doduwole          #+#    #+#             */
-/*   Updated: 2022/07/27 11:17:43 by doduwole         ###   ########.fr       */
+/*   Updated: 2022/07/28 11:19:56 by doduwole         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
+#include <stdio.h>
 
 void	ft_ultimate_ft(int *********nbr)
 {
